@@ -1,0 +1,257 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-color:black;
+}
+.main h1{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+    position: relative;
+    left: 7%;
+    top: 2%;
+    
+}
+.main-img{
+    height: 90%;
+    width: 100%;
+    background-color: azure;
+    background-image: url(./wildlife4.jpg);
+    background-size: cover;
+background-position: top;
+
+}
+.main-img h1{
+    color: white;
+    font-size: 90px;
+    font-weight: 900;
+    position: relative;
+    top: 25%;
+    left: 30%;
+}
+.main-img h1 b{
+    position: relative;
+    right: 5%;
+
+}
+.main-img p{
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    top: 30%;
+    left: 24%;
+}
+.main-img h4{
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    position: relative;
+    top: 30%;
+    left: 39%;
+}
+.btn1{
+    height: 50px;
+    width: 140px;
+    position: relative;
+    top: 35%;
+    left: 45%;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 25px;
+}
+.main2{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.main2-top{
+    height: 30%;
+    width: 100%;
+    /* background-color: aqua; */
+    text-align: center;
+}
+.main2-top h1{
+color: white;
+font-size: 50px;
+font-weight: 400;
+position: relative;
+top: 10%;
+}
+.main2-top p{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 15%;
+}
+.main2-bottom{
+    height: 70%;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.main2-bottom1{
+    height:90%;
+    width: 20%;
+    background-color: aqua;
+    margin: 10px;
+    position: relative;
+    top: 5%;  background-image: url(./wildlifea2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.main2-bottom1 h2{
+    color: white;
+    font-size: 25px;
+    font-weight: 200;
+    position: relative;
+    /* bottom: 5%; */
+    left: 10%;
+    top: 50%;
+
+}
+.main2-bottom2{
+    height:90%;
+    width: 20%;
+    background-color: aqua;
+    margin: 10px;
+    position: relative;
+    top: 5%;
+    background-image: url(./wildlifea1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.main2-bottom2 h2{
+    color:white;
+    font-size: 25px;
+    font-weight: 200;
+    position: relative;
+    /* bottom: 5%; */
+    left: 10%;
+    top: 50%;
+    margin: 10px;
+
+}
+.main2-bottom3{
+    height:90%;
+    width: 20%;
+    background-color: aqua;
+    margin: 10px;
+ position: relative;
+    top: 5%;
+    background-image: url(./wildlifea3b.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.main2-bottom3 h2{
+    color: white;
+    font-size: 25px;
+    font-weight: 200;
+    position: relative;
+    /* bottom: 5%; */
+    left: 10%;
+    top: 50%;
+
+}
+.main2-bottom4{
+    height:90%;
+    width: 20%;
+    background-color: aqua;
+    margin: 10px;
+    position: relative;
+    top: 5%;
+    background-image: url(./wildlifea4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.main2-bottom4 h2{
+    color: white;
+    font-size: 25px;
+    font-weight: 200;
+    position: relative;
+    /* bottom: 5%; */
+    left: 10%;
+    top: 50%;
+
+}
+.main3{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.main3-img{
+    height: 90%;
+    width: 100%;
+    background-color: cadetblue;
+    position: relative;
+    top: 10%;
+    background-image: url(./page3.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.main3-img h1{
+    color: white;
+    font-size: 70px;
+    font-weight: 600;
+    position: relative;
+    top: 35%;
+    left: 25%;
+}
+.main3-img p{
+    color: white;
+    font-size: 18px;
+    font-weight: 200;
+    position: relative;
+    top: 35%;
+    left: 20%;
+}
+.main4{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+.main4-top{
+    height: 50%;
+    width: 100%;
+}
+.main4-top h1{
+    color: white;
+    font-size: 45px;
+    font-weight: 400;
+    position: relative;
+    top: 10%;
+    /* left: 20%; */
+    text-align: center;
+}
+.main4-top p{
+    color: white;
+    font-size: 18px;
+    font-weight: 200;
+    position: relative;
+    top: 20%;
+    left: 20%;
+}
+.main4-bottom{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(126, 126, 8);
+}
+.main4-bottom-img{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    background-image: url(page44.jpg);
+    background-size: cover;
+    background-position: center;
+}
